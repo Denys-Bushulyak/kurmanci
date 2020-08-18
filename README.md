@@ -1,8 +1,8 @@
 # kurmanci
 
-[ Begin ](Begin)
-[ End ](End)
+[ Begin ](/#Begin)
+[ End ](/#End)
 
-##Begin
+## Begin
 
-##End
+## End
