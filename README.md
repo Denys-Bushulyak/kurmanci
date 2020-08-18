@@ -1,1 +1,3 @@
 # kurmanci
+
+Kurdi
