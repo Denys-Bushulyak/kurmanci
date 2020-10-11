@@ -1,0 +1,38 @@
+# Правило использования "xwe" в значении "свой"
+
+«xwe» используется, когда субъект в предложении, также есть владельцем другого элемента в этом же предложении. «xwe» используется, как притяжательный модификатор этого элемента.
+Другими словами: Если объект принадлежит субъекту - использовать «xwe»; если принадлежит кому-то другому - не нужно говорить «xwe».
+
+Примеры:
+
+|                                |                                |
+| ------------------------------ | ------------------------------ |
+| Ez bi hevalên xwe re dimeşim   | Я с друзьями своими гуляю      |
+| Ahmet bi keça xwe serbilind e  | Ахмет дочерью своей гордится   |
+| Ahmet di karê xwe de jêhatî ye | Ахмет в деле своем умелым есть |
+| Ez ji dayika xwe hez dikim     | Я маму свою люблю              |
+
+Источник:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Pymbb6ytB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+Еще пример:
+|||
+|-|-|
+|wî em bi sûretê xwe çêkirine|Он нас по образу своему создал|
+|û ew îzne dide ku em li gor dilê xwe qeraran bidin|и он разрешение дает, чтобы мы согласно сердцу своему решения давали|
+
+# "xwe bi xwe" - сам
+
+Пример:
+|||
+|-|-|
+|ew her tim dixwzin her tiştî xwe bi xwe bikin|они всегда хотят все сами делать|
+|Saûl sebra xwe winda kir, û wî xwe bi wxe qurbanek pêşkeş kir|Саул терпение свое потерял и сам жертву принес|
+
+# "xwe" - в значении "себя"
+
+Пример:
+|||
+|-|-|
+|Ew xwe bi kesên din muqayese dikin|он себя с другими сравнивает|
