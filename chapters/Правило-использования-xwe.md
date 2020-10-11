@@ -17,18 +17,20 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Pymbb6ytB0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Еще пример:
-| | |
-| ------------------------------ | ------------------------------ |
-|wî em bi sûretê xwe çêkirine|Он нас по образу своему создал|
-|û ew îzne dide ku em li gor dilê xwe qeraran bidin|и он разрешение дает, чтобы мы согласно сердцу своему решения давали|
+
+|                                                    |                                                                      |
+| -------------------------------------------------- | -------------------------------------------------------------------- |
+| wî em bi sûretê xwe çêkirine                       | Он нас по образу своему создал                                       |
+| û ew îzne dide ku em li gor dilê xwe qeraran bidin | и он разрешение дает, чтобы мы согласно сердцу своему решения давали |
 
 # "xwe bi xwe" - сам
 
 Пример:
-| | |
-| ------------------------------ | ------------------------------ |
-|ew her tim dixwzin her tiştî xwe bi xwe bikin|они всегда хотят все сами делать|
-|Saûl sebra xwe winda kir, û wî xwe bi wxe qurbanek pêşkeş kir|Саул терпение свое потерял и сам жертву принес|
+
+|                                                               |                                                |
+| ------------------------------------------------------------- | ---------------------------------------------- |
+| ew her tim dixwzin her tiştî xwe bi xwe bikin                 | они всегда хотят все сами делать               |
+| Saûl sebra xwe winda kir, û wî xwe bi wxe qurbanek pêşkeş kir | Саул терпение свое потерял и сам жертву принес |
 
 # "xwe" - в значении "себя"
 
