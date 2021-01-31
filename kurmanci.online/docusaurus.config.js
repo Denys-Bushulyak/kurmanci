@@ -17,7 +17,7 @@ module.exports = {
       },
       items: [
         {
-          to: 'docs/',
+          to: 'docs/chapter-1/pronouns',
           activeBasePath: 'docs',
           label: 'Граматика',
           position: 'left',
@@ -54,12 +54,6 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://denys-bushulyak.github.io/kurmanci/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
