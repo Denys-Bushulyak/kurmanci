@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Язык курманджи',
-  tagline: 'Граматика языка курманджи на русском.',
+  title: 'Курманджи',
+  tagline: 'Граматика языка с примерами',
   url: 'https://kurmanci.online',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -10,7 +10,7 @@ module.exports = {
   projectName: 'kurmaci', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Язык курманджи',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -19,12 +19,11 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Граматика',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://denys-bushulyak.github.io/kurmanci',
           label: 'GitHub',
           position: 'right',
         },
@@ -34,50 +33,16 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Больше',
           items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://denys-bushulyak.github.io/kurmanci',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Anna Bushuliak. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -88,7 +53,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://denys-bushulyak.github.io/kurmanci/',
         },
         blog: {
           showReadingTime: true,

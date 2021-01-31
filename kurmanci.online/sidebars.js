@@ -1,5 +1,5 @@
 module.exports = {
   someSidebar: {
-    'Граматика': ['местоимение']
+    'Граматика': ['pronouns','verbs']
   },
 };
