@@ -8,17 +8,13 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'kurmaci', // Usually your repo name.
-  plugins: [
-      '@docusaurus/plugin-google-analytics',
-    '@docusaurus/plugin-google-gtag',
-    '@docusaurus/plugin-sitemap',
-    {
+  themeConfig: {
+    siteMap:{
       cacheTime: 600 * 1000, // 600 sec - cache purge period
       changefreq: 'weekly',
       priority: 0.5,
       trailingSlash: false,
-    },],
-  themeConfig: {
+    },
     googleAnalytics: {
       trackingID: 'G-6X6GBBP4NE',
       // Optional fields.
