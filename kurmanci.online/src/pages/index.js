@@ -8,32 +8,29 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'Граматика',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        На этом ресурсе вы найдете правила граматики курдского языка изложенный в порядке лучшего его усвоения.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'С примерами',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Примеры взяты с реальных публикаций.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Стандартный диалект',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Более-менее стандартный и понятный диалект этого языка.
       </>
     ),
   },

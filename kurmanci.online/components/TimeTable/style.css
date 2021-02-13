@@ -1,0 +1,55 @@
+@media (min-width: 576px) {
+    .time-table{
+        display: table;
+        width: 60%;
+    }
+}
+
+.time-table td{
+    border: none;
+}
+
+.time-table tr.border{
+    border-bottom: 1px solid lightgray;
+}
+
+.time-table td.border{
+    border-right: 1px solid lightgray;
+}
+
+.time-table tr{
+    border: none;
+}
+
+.time-table tr:nth-child(2n){
+    background-color: white;
+}
+
+.time-table .question-column{
+    width: 7%;
+}
+
+.time-table .statement-column{
+    width: 40%;
+}
+
+.time-table .negative-column{
+    width: 40%;
+}
+
+.time-table .time-column{
+    width: 5%;
+    padding: 0;
+    transform: rotate(-90deg);
+}
+
+.time-table thead td{
+    text-align: center;
+}
+
+
+
+.time-table td{
+    padding-top: 1px;
+    padding-bottom: 1px;
+}

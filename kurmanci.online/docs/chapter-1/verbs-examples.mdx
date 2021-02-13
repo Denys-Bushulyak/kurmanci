@@ -1,3 +1,35 @@
 ---
 title: Примеры
 ---
+import {Definition} from '../../components/Definition';
+import {TimeTable} from '../../components/TimeTable';
+
+<TimeTable
+    definition={<i>Bûyîn / bûn, (-b-) - (<Definition definition={"непереходной глагол"}>н.п. гл.</Definition>) быть, стать</i>}
+    forms={{
+        future:{
+            '1_i':['bibim','nebim'],
+            '2_you':['bibî','nebî'],
+            '3_he_she_it':['bibe','nebe'],
+            '4_we':['bibin','nebin'],
+            '5_you_all':['bibin','nebin'],
+            '6_they':['bibin','nebin']
+        },
+        present:{
+            '1_i':['dibim','nabim'],
+            '2_you':['dibî','nabî'],
+            '3_he_she_it':['dibe','nabe'],
+            '4_we':['dibin','nabin'],
+            '5_you_all':['dibin','nabin'],
+            '6_they':['dibin','nabin']
+        },
+        past:{
+            '1_i':['bûm','nebûm'],
+            '2_you':['bûyî','nebûyî'],
+            '3_he_she_it':['bû','nebû'],
+            '4_we':['bûn','nebûn'],
+            '5_you_all':['bûn','nebûn'],
+            '6_they':['bûn','nebûn']
+        }
+    }}
+/>
