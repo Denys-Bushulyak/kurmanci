@@ -1,6 +1,7 @@
 module.exports = {
   title: 'Курманджи',
   tagline: 'Граматика языка с примерами',
+  desciption: 'Граматика языка с примерами',
   url: 'https://kurmanci.online',
   baseUrl: '/',
   onBrokenLinks: 'throw',
