@@ -1,7 +1,7 @@
 @media (min-width: 576px) {
     .time-table{
         display: table;
-        width: 60%;
+        width: 70%;
     }
 }
 
@@ -40,7 +40,14 @@
 .time-table .time-column{
     width: 5%;
     padding: 0;
+    position: relative;
+}
+
+.time-table .time-column span{
     transform: rotate(-90deg);
+    display: inline-block;
+    position: absolute;
+    left: -15px;
 }
 
 .time-table thead td{
