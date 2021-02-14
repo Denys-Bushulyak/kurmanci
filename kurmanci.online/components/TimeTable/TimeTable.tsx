@@ -179,7 +179,10 @@ export function TimeTable(props: TimeTableProps) {
                 {props.verbIs === "intransitive" ? "hûn" : "we"}{" "}
                 {props.forms.past["5_you_all"][0]}
               </td>
-              <td>hûn {props.forms.past["5_you_all"][1]}</td>
+              <td>
+                {props.verbIs === "intransitive" ? "hûn" : "we"}{" "}
+                {props.forms.past["5_you_all"][1]}
+              </td>
             </tr>
             <tr>
               <td className={"border"}>
