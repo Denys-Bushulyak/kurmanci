@@ -30,6 +30,6 @@ module.exports = {
         ],
       },
     ],
-    "Глава 2": ["chapter-2/demonstrative-pronouns"],
+    "Глава 2": ["chapter-2/demonstrative-pronouns", "chapter-2/question-words"],
   },
 };
