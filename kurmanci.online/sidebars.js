@@ -4,6 +4,7 @@ module.exports = {
       "chapter-1/pronouns",
       {
         Глаголы: [
+          "chapter-1/verbs-roots",
           "chapter-1/verbs-present",
           "chapter-1/verbs-future",
           "chapter-1/verbs-transitive-intransitive",
@@ -18,6 +19,8 @@ module.exports = {
               "chapter-1/examples/verbs-to-bring",
               "chapter-1/examples/verbs-to-come",
               "chapter-1/examples/verbs-to-walk",
+              "chapter-1/examples/verbs-to-can",
+              "chapter-1/examples/verbs-to-know",
             ],
           },
         ],
