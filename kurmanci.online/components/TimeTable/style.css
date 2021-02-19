@@ -21,10 +21,6 @@
     border: none;
 }
 
-.time-table tr:nth-child(2n){
-    background-color: white;
-}
-
 .time-table .question-column{
     width: 7%;
 }
