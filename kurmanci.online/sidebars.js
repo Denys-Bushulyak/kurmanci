@@ -9,6 +9,8 @@ module.exports = {
           "chapter-1/verbs-future",
           "chapter-1/verbs-transitive-intransitive",
           "chapter-1/verbs-past",
+          "chapter-1/sentence-structure",
+          "chapter-1/questioning-sentence",
           {
             Примеры: [
               "chapter-1/examples/verbs-to-be",
@@ -23,8 +25,11 @@ module.exports = {
               "chapter-1/examples/verbs-to-know",
             ],
           },
+
+          // "chapter-1/question-words",
         ],
       },
     ],
+    "Глава 2": ["chapter-2/demonstrative-pronouns"],
   },
 };
