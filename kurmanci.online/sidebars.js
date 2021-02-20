@@ -36,6 +36,7 @@ module.exports = {
       "chapter-2/question-words",
       "chapter-2/subjunctive-mood",
       "chapter-2/verb-have-exists",
+      "chapter-2/verbs-with-prefixes",
     ],
   },
 };
