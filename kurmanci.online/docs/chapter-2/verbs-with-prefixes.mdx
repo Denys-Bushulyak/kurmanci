@@ -2,8 +2,6 @@
 title: Глаголы с префиксами
 description: Глаголы с префиксами
 ---
-import {TimeTable} from '../../components/TimeTable';
-import {Vt} from '../../components/Verb';
 
 К корню глагола присоединяется префикс и придает ему другое значение. Афикс настоящего времени _di-_ и отрицания _na-/ne-_ становятся между префиксом и корнем глагола. Афикс будущего времени _bi-_ не вставляется.
 
@@ -12,39 +10,46 @@ import {Vt} from '../../components/Verb';
 _Ra-_ часто подразумевает "вверх", _der-_ - из.
 
 Пример глаголов:
-* rakirin (ra•k-) - поднять
-* rabûn (ra•b-) - встать
-* derxistin (der•x-) - выбросить
-* vekirin (ve•k-) - открывать
-* vexwarin (ve•xw-) - пить
+
+- rakirin (ra•k-) - поднять
+- rabûn (ra•b-) - встать
+- derxistin (der•x-) - выбросить
+- vekirin (ve•k-) - открывать
+- vexwarin (ve•xw-) - пить
+
+
 
 <TimeTable
-    verbIs={'transitive'}
-    definition={<>Rakirin (ra•k-) - <Vt/> поднять</>}
-    forms={{
-        future: {
-            "1_i": ["rakim", "ranekim"],
-            "2_you": ["rakî", "ranekî"],
-            "3_he_she_it": ["rake", "raneke"],
-            "4_we": ["rak", "ranekin"],
-            "5_you_all": ["rakin", "ranekin"],
-            "6_they": ["rakin", "ranekin"],
-        },
-        present: {
-            "1_i": ["radikim", "ranakim"],
-            "2_you": ["radikî", "ranakî"],
-            "3_he_she_it": ["radike", "ranake"],
-            "4_we": ["radikin", "ranakin"],
-            "5_you_all": ["radikin", "radikin"],
-            "6_they": ["radikin", "radikin"],
-        },
-        past: {
-            "1_i": ["rakir", "ranekir"],
-            "2_you": ["rakir", "ranekir"],
-            "3_he_she_it": ["rakir", "ranekir"],
-            "4_we": ["rakir", "ranekir"],
-            "5_you_all": ["rakir", "ranekir"],
-            "6_they": ["rakir", "ranekir"],
-        },
-    }}
+  verbIs={"intransitive"}
+  definition={
+    <>
+      rabûn (ra•b-) - <Vi /> встать
+    </>
+  }
+  forms={{
+    future: {
+      "1_i": ["rakim", "ranekim"],
+      "2_you": ["rakî", "ranekî"],
+      "3_he_she_it": ["rake", "raneke"],
+      "4_we": ["rak", "ranekin"],
+      "5_you_all": ["rakin", "ranekin"],
+      "6_they": ["rakin", "ranekin"],
+    },
+    present: {
+      "1_i": ["radikim", "ranakim"],
+      "2_you": ["radikî", "ranakî"],
+      "3_he_she_it": ["radike", "ranake"],
+      "4_we": ["radikin", "ranakin"],
+      "5_you_all": ["radikin", "radikin"],
+      "6_they": ["radikin", "radikin"],
+    },
+    past: {
+      "1_i": ["rakir", "ranekir"],
+      "2_you": ["rakir", "ranekir"],
+      "3_he_she_it": ["rakir", "ranekir"],
+      "4_we": ["rakir", "ranekir"],
+      "5_you_all": ["rakir", "ranekir"],
+      "6_they": ["rakir", "ranekir"],
+    },
+  }}
 />
