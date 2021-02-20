@@ -34,6 +34,8 @@ module.exports = {
       "chapter-2/demonstrative-pronouns",
       "chapter-2/verb-exists",
       "chapter-2/question-words",
+      "chapter-2/subjunctive-mood",
+      "chapter-2/verb-have-exists",
     ],
   },
 };
