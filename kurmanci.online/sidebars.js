@@ -38,7 +38,13 @@ module.exports = {
       "chapter-2/verb-have-exists",
       "chapter-2/verbs-with-prefixes",
       "chapter-2/imperative-mood",
-      { Примеры: ["chapter-2/examples/rakirin", "chapter-2/examples/rabun"] },
+      {
+        Примеры: [
+          "chapter-2/examples/rakirin",
+          "chapter-2/examples/rabun",
+          "chapter-2/examples/nivisin",
+        ],
+      },
     ],
   },
 };
