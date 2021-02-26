@@ -44,6 +44,7 @@ module.exports = {
           "chapter-2/examples/rabun",
           "chapter-2/examples/nivisin",
           "chapter-2/examples/xwendin",
+          "chapter-2/examples/xwarin",
         ],
       },
     ],
