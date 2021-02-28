@@ -38,6 +38,7 @@ module.exports = {
       "chapter-2/verb-have-exists",
       "chapter-2/verbs-with-prefixes",
       "chapter-2/imperative-mood",
+      "chapter-2/helper-verb",
       "chapter-2/numbers",
       {
         Примеры: [
