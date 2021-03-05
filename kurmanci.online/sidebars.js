@@ -49,7 +49,7 @@ module.exports = {
           "chapter-2/examples/xwarin",
           "chapter-2/examples/xwestin",
           "chapter-2/examples/pirsin",
-          "chapter-2/examples/xistin",
+          // "chapter-2/examples/xistin",
         ],
       },
     ],
