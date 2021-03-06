@@ -53,5 +53,8 @@ module.exports = {
         ],
       },
     ],
+    "Глава 3": [
+        "chapter-3/noun-case"
+    ]
   },
 };
