@@ -56,6 +56,7 @@ module.exports = {
     "Глава 3": [
         "chapter-3/indirect-case",
         "chapter-3/noun-pairs",
+        "chapter-3/word-formation",
     ]
   },
 };
