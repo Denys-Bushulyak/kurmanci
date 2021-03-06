@@ -57,7 +57,7 @@ module.exports = {
         "chapter-3/indirect-case",
         "chapter-3/noun-pairs",
         "chapter-3/word-formation",
-        "chapter-3/nouns-plural-and-singular",
+        // "chapter-3/nouns-plural-and-singular",
     ]
   },
 };
