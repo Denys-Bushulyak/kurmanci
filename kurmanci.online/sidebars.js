@@ -4,6 +4,7 @@ module.exports = {
       "chapter-1/pronouns",
       {
         Глаголы: [
+          "chapter-1/alfabe",
           "chapter-1/verbs-roots",
           "chapter-1/verbs-present",
           "chapter-1/verbs-future",
