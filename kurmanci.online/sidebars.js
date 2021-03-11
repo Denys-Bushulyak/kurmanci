@@ -50,6 +50,7 @@ module.exports = {
           "chapter-2/examples/xwarin",
           "chapter-2/examples/xwestin",
           "chapter-2/examples/pirsin",
+          "chapter-2/examples/hez-kirin",
           // "chapter-2/examples/xistin",
         ],
       },
@@ -59,6 +60,13 @@ module.exports = {
       "chapter-3/noun-pairs",
       "chapter-3/word-formation",
       "chapter-3/nouns-plural-and-singular",
+      {
+        Примеры: [
+          "chapter-3/examples/soz-dayin",
+          "chapter-3/examples/qerar-dayin",
+          "chapter-3/examples/guh-dayin",
+        ],
+      },
     ],
   },
 };
