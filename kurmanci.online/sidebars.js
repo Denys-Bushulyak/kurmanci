@@ -69,5 +69,6 @@ module.exports = {
         ],
       },
     ],
+    "Глава 4": ["chapter-4/adjectives"],
   },
 };
