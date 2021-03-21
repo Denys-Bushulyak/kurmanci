@@ -69,6 +69,11 @@ module.exports = {
         ],
       },
     ],
-    "Глава 4": ["chapter-4/izafet", "chapter-4/adjectives"],
+    "Глава 4": [
+      "chapter-4/izafet",
+      "chapter-4/adjectives",
+      "chapter-4/vocabulary",
+      "chapter-4/xwe",
+    ],
   },
 };
