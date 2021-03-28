@@ -78,6 +78,10 @@ module.exports = {
         Примеры: ["chapter-4/examples/mezin-buyin"],
       },
     ],
-    "Глава 5": ["chapter-5/numerics"],
+    "Глава 5": [
+      "chapter-5/numerics",
+      "chapter-5/word-creation",
+      "chapter-5/word-creation-2",
+    ],
   },
 };
