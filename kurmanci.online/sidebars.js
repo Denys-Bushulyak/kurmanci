@@ -78,7 +78,7 @@ module.exports = {
         Примеры: [
           "chapter-4/examples/mezin-buyin",
           "chapter-4/examples/azad-kirin",
-          "chapter-4/examples/zelal-buyin",
+          "chapter-4/examples/zelal-kirin",
         ],
       },
     ],
