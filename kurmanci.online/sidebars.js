@@ -74,6 +74,10 @@ module.exports = {
       "chapter-4/adjectives",
       "chapter-4/vocabulary",
       "chapter-4/xwe",
+      {
+        Примеры: ["chapter-4/examples/mezin-buyin"],
+      },
     ],
+    "Глава 5": ["chapter-5/numerics"],
   },
 };
