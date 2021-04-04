@@ -53,6 +53,7 @@ function Home() {
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
+
           <div className={styles.buttons}>
             <Link
               className={clsx(
@@ -64,6 +65,9 @@ function Home() {
               Начинаем
             </Link>
           </div>
+          <p style={{ textAlign: "center", marginTop: "1em" }}>
+            Последнее обновление было 04.04.2021
+          </p>
         </div>
       </header>
       <main>
