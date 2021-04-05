@@ -83,6 +83,7 @@ module.exports = {
         ],
       },
     ],
-    "Глава 5": ["chapter-5/numerics", "chapter-5/word-creation"],
+    "Глава 5": ["chapter-5/prepositions"],
+    "Глава 6": ["chapter-6/numerics", "chapter-6/word-creation"],
   },
 };
