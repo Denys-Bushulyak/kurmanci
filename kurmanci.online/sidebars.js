@@ -73,6 +73,7 @@ module.exports = {
       "chapter-4/izafet",
       "chapter-4/adjectives",
       "chapter-4/vocabulary",
+      "chapter-4/personality-traits-vocabulary",
       "chapter-4/xwe",
       {
         Примеры: [
