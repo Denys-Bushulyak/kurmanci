@@ -77,13 +77,23 @@ module.exports = {
       "chapter-4/xwe",
       {
         Примеры: [
-          "chapter-4/examples/mezin-buyin",
           "chapter-4/examples/azad-kirin",
+          "chapter-4/examples/mezin-buyin",
+          "chapter-4/examples/xwes-hatin",
           "chapter-4/examples/zelal-kirin",
         ],
       },
     ],
-    "Глава 5": ["chapter-5/prepositions"],
+    "Глава 5": [
+      "chapter-5/prepositions",
+      {
+        Примеры: [
+          "chapter-5/examples/bawer-kirin",
+          "chapter-5/examples/bawer-anin",
+          "chapter-5/examples/bawer-buyin",
+        ],
+      },
+    ],
     "Глава 6": ["chapter-6/numerics", "chapter-6/word-creation"],
   },
 };
