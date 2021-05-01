@@ -53,6 +53,7 @@ module.exports = {
           "chapter-2/examples/hez-kirin",
           "chapter-2/examples/jiyan",
           "chapter-2/examples/mirin",
+          "chapter-2/examples/nerin",
         ],
       },
     ],
