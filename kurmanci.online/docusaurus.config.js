@@ -58,7 +58,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Anna Bushuliak. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Anna Bushuliak. <br /><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Ліцензія Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Твір "<span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Грамматика языка Курманджи</span>", створений <a xmlns:cc="http://creativecommons.org/ns#" href="https://denys-bushulyak.github.io/kurmanci" property="cc:attributionName" rel="cc:attributionURL">Бушуляк Анна</a>, ліцензовано на умовах <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Ліцензії Creative Commons Із Зазначенням Авторства — Некомерційна — Поширення На Тих Самих Умовах 4.0 Міжнародна</a>.`,
     },
   },
   presets: [
@@ -68,7 +68,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://denys-bushulyak.github.io/kurmanci/",
+          editUrl: "https://kurmanji.online/",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
