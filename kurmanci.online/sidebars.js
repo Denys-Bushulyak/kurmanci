@@ -89,6 +89,7 @@ module.exports = {
     ],
     "Глава 5": [
       "chapter-5/prepositions",
+      "chapter-5/preposition-bi",
       {
         Примеры: [
           "chapter-5/examples/bawer-kirin",
