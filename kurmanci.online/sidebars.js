@@ -89,7 +89,10 @@ module.exports = {
     ],
     "Глава 5": [
       "chapter-5/prepositions",
+      "chapter-5/preposition-and-move",
+      "chapter-5/preposition-in-place",
       "chapter-5/preposition-bi",
+      "chapter-5/preposition-about-for-because",
       {
         Примеры: [
           "chapter-5/examples/bawer-kirin",
