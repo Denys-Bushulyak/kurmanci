@@ -93,6 +93,7 @@ module.exports = {
       "chapter-5/preposition-in-place",
       "chapter-5/preposition-bi",
       "chapter-5/preposition-about-for-because",
+      "chapter-5/preposition-shorthands",
       {
         Примеры: [
           "chapter-5/examples/bawer-kirin",
