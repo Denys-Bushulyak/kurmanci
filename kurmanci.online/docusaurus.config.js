@@ -1,6 +1,6 @@
 module.exports = {
   title: "Курманджи",
-  tagline: "Граматика языка с примерами",
+  tagline: "Грамматика языка с примерами",
   url: "https://kurmanci.online",
   baseUrl: "/",
   onBrokenLinks: "throw",
