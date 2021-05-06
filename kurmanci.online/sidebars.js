@@ -108,6 +108,9 @@ module.exports = {
       'chapter-6/all-nobody',
       'chapter-6/how-often',
     ],
-    'Глава 7': ['chapter-7/verbs-past-continuous-multiple'],
+    'Глава 7': [
+      'chapter-7/verbs-past-continuous-multiple',
+      'chapter-7/verbs-past-perfect',
+    ],
   },
 };
