@@ -110,6 +110,7 @@ module.exports = {
     ],
     'Глава 7': [
       'chapter-7/verbs-past-continuous-multiple',
+      'chapter-7/verbs-perfect',
       'chapter-7/verbs-past-perfect',
     ],
   },
