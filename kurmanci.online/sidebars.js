@@ -112,6 +112,7 @@ module.exports = {
       'chapter-7/verbs-past-continuous-multiple',
       'chapter-7/verbs-perfect',
       'chapter-7/verbs-past-perfect',
+      'chapter-7/verbs-with-prefixes',
     ],
     'Глава 8': [
       'chapter-8/types-of-action',
