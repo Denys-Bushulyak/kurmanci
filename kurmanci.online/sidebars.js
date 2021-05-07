@@ -119,5 +119,8 @@ module.exports = {
       'chapter-8/transition-of-a-verb-into-states-into-action–verbs-and-vice-versa',
       'chapter-8/passive',
     ],
+    'Глава 9': [
+      'chapter-9/verbs-conditional-form'
+    ]
   },
 };
