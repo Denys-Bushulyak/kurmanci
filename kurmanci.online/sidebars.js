@@ -113,5 +113,9 @@ module.exports = {
       'chapter-7/verbs-perfect',
       'chapter-7/verbs-past-perfect',
     ],
+    'Глава 8': [
+      'chapter-8/types-of-action',
+      'chapter-8/transition-of-a-verb-into-states-into-action–verbs-and-vice-versa',
+    ],
   },
 };
