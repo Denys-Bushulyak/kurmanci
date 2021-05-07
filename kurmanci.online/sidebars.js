@@ -116,6 +116,7 @@ module.exports = {
     'Глава 8': [
       'chapter-8/types-of-action',
       'chapter-8/transition-of-a-verb-into-states-into-action–verbs-and-vice-versa',
+      'chapter-8/passive',
     ],
   },
 };
