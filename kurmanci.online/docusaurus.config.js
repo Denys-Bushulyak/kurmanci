@@ -1,59 +1,68 @@
 module.exports = {
-  title: "Курманджи",
-  tagline: "Грамматика языка с примерами",
-  url: "https://kurmanci.online",
-  baseUrl: "/",
-  onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "kurmaci", // Usually your repo name.
+  title: 'Курманджи',
+  tagline: 'Грамматика языка с примерами',
+  url: 'https://kurmanci.online',
+  baseUrl: '/',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'warn',
+  favicon: 'img/favicon.ico',
+  organizationName: 'facebook', // Usually your GitHub org/user name.
+  projectName: 'kurmaci', // Usually your repo name.
   themeConfig: {
     siteMap: {
       cacheTime: 600 * 1000, // 600 sec - cache purge period
-      changefreq: "weekly",
+      changefreq: 'weekly',
       priority: 0.5,
       trailingSlash: false,
     },
     googleAnalytics: {
-      trackingID: "G-6X6GBBP4NE",
+      trackingID: 'G-6X6GBBP4NE',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
     gtag: {
-      trackingID: "G-6X6GBBP4NE",
+      trackingID: 'G-6X6GBBP4NE',
       // Optional fields.
       anonymizeIP: true, // Should IPs be anonymized?
     },
     navbar: {
-      title: "Язык курманджи",
+      title: 'Язык курманджи',
       logo: {
-        alt: "My Site Logo",
-        src: "img/logo.svg",
+        alt: 'Язык курманджи',
+        src: 'img/logo.svg',
       },
       items: [
         {
-          to: "docs/chapter-1/pronouns",
-          activeBasePath: "docs",
-          label: "Граматика",
-          position: "left",
+          to: 'docs/chapter-1/pronouns',
+          activeBasePath: 'docs',
+          label: 'Граматика',
+          position: 'left',
         },
         {
-          href: "https://denys-bushulyak.github.io/kurmanci",
-          label: "GitHub",
-          position: "right",
+          to: 'docs/search',
+          activeBasePath: 'pages',
+          label: 'Поиск',
+          position: 'right',
+        },
+        {
+          href: 'https://denys-bushulyak.github.io/kurmanci',
+          label: 'GitHub',
+          position: 'right',
+        },
+        {
+          html: 'Test',
         },
       ],
     },
     footer: {
-      style: "dark",
+      style: 'dark',
       links: [
         {
-          title: "Больше",
+          title: 'Больше',
           items: [
             {
-              label: "GitHub",
-              href: "https://denys-bushulyak.github.io/kurmanci",
+              label: 'GitHub',
+              href: 'https://denys-bushulyak.github.io/kurmanci',
             },
           ],
         },
@@ -63,15 +72,15 @@ module.exports = {
   },
   presets: [
     [
-      "@docusaurus/preset-classic",
+      '@docusaurus/preset-classic',
       {
         docs: {
-          sidebarPath: require.resolve("./sidebars.js"),
+          sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: "https://kurmanji.online/",
+          editUrl: 'https://kurmanji.online/',
         },
         theme: {
-          customCss: require.resolve("./src/css/custom.css"),
+          customCss: require.resolve('./src/css/custom.css'),
         },
       },
     ],
