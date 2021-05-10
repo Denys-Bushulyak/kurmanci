@@ -107,6 +107,7 @@ module.exports = {
       'chapter-6/numerics',
       'chapter-6/word-creation',
       'chapter-6/all-nobody',
+      'chapter-6/circumstances-of-the-time',
       'chapter-6/how-often',
     ],
     'Глава 7': [
