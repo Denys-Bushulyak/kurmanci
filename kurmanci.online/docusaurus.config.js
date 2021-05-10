@@ -35,7 +35,7 @@ module.exports = {
         {
           to: 'docs/chapter-1/pronouns',
           activeBasePath: 'docs',
-          label: 'Граматика',
+          label: 'Грамматика',
           position: 'left',
         },
         {

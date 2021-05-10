@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Граматика',
+    title: 'Грамматика',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
@@ -48,7 +48,7 @@ function Home() {
   const context = useDocusaurusContext();
   const { siteConfig = {} } = context;
   return (
-    <Layout title={`Граматика языка ${siteConfig.title}`}>
+    <Layout title={`Грамматика языка ${siteConfig.title}`}>
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>
