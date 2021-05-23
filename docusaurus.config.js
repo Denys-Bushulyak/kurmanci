@@ -77,8 +77,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/Denys-Bushulyak/kurmanci/blob/master/docs',
+          editUrl: 'https://github.com/Denys-Bushulyak/kurmanci/blob/master',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
