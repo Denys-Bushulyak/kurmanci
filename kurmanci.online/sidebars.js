@@ -2,6 +2,7 @@ module.exports = {
   someSidebar: {
     'Глава 1': [
       'chapter-1/alfabe',
+      'chapter-1/slav',
       'chapter-1/pronouns',
       {
         Глаголы: [
@@ -93,6 +94,7 @@ module.exports = {
       'chapter-5/preposition-in-place',
       'chapter-5/preposition-ji',
       'chapter-5/preposition-bi',
+      'chapter-5/sefer',
       'chapter-5/preposition-about-for-because',
       'chapter-5/preposition-shorthands',
       {
