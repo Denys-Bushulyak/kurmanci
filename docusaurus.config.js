@@ -29,7 +29,7 @@ module.exports = {
       title: 'Язык курманджи',
       logo: {
         alt: 'Язык курманджи',
-        src: 'logo.svg',
+        src: 'img/logo.svg',
       },
       items: [
         {
