@@ -44,14 +44,15 @@ module.exports = {
       'chapter-2/numbers',
       {
         Примеры: [
+          'chapter-2/examples/xwestin',
           'chapter-2/examples/rakirin',
+          'chapter-2/examples/hez-kirin',
           'chapter-2/examples/rabun',
           'chapter-2/examples/nivisin',
           'chapter-2/examples/xwendin',
           'chapter-2/examples/xwarin',
-          'chapter-2/examples/xwestin',
+          'chapter-2/examples/vexwarin',
           'chapter-2/examples/pirsin',
-          'chapter-2/examples/hez-kirin',
           'chapter-2/examples/jiyan',
           'chapter-2/examples/mirin',
           'chapter-2/examples/nerin',
