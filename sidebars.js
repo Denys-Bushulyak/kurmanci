@@ -44,6 +44,7 @@ module.exports = {
       'chapter-2/numbers',
       {
         Примеры: [
+          'chapter-2/examples/ali',
           'chapter-2/examples/xwestin',
           'chapter-2/examples/rakirin',
           'chapter-2/examples/hez-kirin',
@@ -67,6 +68,7 @@ module.exports = {
       'chapter-3/sentence-structure-2',
       {
         Примеры: [
+          'chapter-3/examples/ajotin',
           'chapter-3/examples/soz-dayin',
           'chapter-3/examples/qerar-dayin',
           'chapter-3/examples/guh-dayin',
