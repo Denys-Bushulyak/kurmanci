@@ -66,7 +66,7 @@ function Home() {
             </Link>
           </div>
           <p style={{ textAlign: 'center', marginTop: '1em' }}>
-            Последнее обновление было 12.06.2021
+            Последнее обновление было 13.06.2021
           </p>
         </div>
       </header>
