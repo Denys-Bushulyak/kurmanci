@@ -69,6 +69,7 @@ module.exports = {
       {
         Примеры: [
           'chapter-3/examples/ajotin',
+          'chapter-3/examples/hikum-ajotin',
           'chapter-3/examples/soz-dayin',
           'chapter-3/examples/qerar-dayin',
           'chapter-3/examples/guh-dayin',
