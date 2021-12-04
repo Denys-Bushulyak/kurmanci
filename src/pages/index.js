@@ -60,13 +60,13 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted
               )}
-              to={useBaseUrl('docs/chapter-1/pronouns')}
+              to={useBaseUrl('docs/chapter-1/alfabe')}
             >
               Начинаем
             </Link>
           </div>
           <p style={{ textAlign: 'center', marginTop: '1em' }}>
-            Последнее обновление было 24.08.2021
+            Последнее обновление было 04.12.2021
           </p>
         </div>
       </header>
