@@ -4,6 +4,7 @@ module.exports = {
       "chapter-1/alfabe",
       "chapter-1/slav",
       "chapter-1/pronouns",
+      "chapter-1/verb-exists",
       "chapter-1/verbs-roots",
       "chapter-1/verbs-present",
       "chapter-1/verbs-future",
@@ -29,7 +30,6 @@ module.exports = {
     ],
     "Глава 2": [
       "chapter-2/demonstrative-pronouns",
-      "chapter-2/verb-exists",
       "chapter-2/question-words",
       "chapter-2/subjunctive-mood",
       "chapter-2/verb-have-exists",
