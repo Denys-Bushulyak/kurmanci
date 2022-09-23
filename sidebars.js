@@ -70,6 +70,7 @@ module.exports = {
           "chapter-3/examples/qerar-dayin",
           "chapter-3/examples/guh-dayin",
           "chapter-3/examples/birin",
+          "chapter-3/examples/xistin"
         ],
       },
     ],
