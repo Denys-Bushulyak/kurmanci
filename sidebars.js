@@ -37,6 +37,7 @@ module.exports = {
       "chapter-2/imperative-mood",
       "chapter-2/helper-verb",
       "chapter-2/numbers",
+      "chapter-2/body",
       {
         Примеры: [
           "chapter-2/examples/ali",
