@@ -1,4 +1,4 @@
-import { closeSync, openSync, writeSync } from 'fs';
+const { closeSync, openSync, writeSync } = require('fs');
 const Crawler = require('node-html-crawler');
 const { JSDOM } = require('jsdom');
 
@@ -9,7 +9,7 @@ const crawler = new Crawler({
 
 const result = [];
 
-crawler.on('data', (data: any) => {
+crawler.on('data', (data) => {
   if (data.result.statusCode === 200) {
     const dom = new JSDOM(data.result.body);
 

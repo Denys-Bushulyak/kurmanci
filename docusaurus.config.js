@@ -49,9 +49,6 @@ module.exports = {
           label: 'GitHub',
           position: 'right',
         },
-        {
-          html: 'Test',
-        },
       ],
     },
     footer: {

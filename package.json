@@ -1,6 +1,6 @@
 {
   "name": "kurmanci-online",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
@@ -24,6 +24,9 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4"
   },
+  "engines": {
+    "node": "16"
+  },
   "browserslist": {
     "production": [
       ">0.5%",
@@ -41,6 +44,7 @@
     "node-html-crawler": "^1.2.1",
     "prettier": "^2.2.1",
     "ts-node": "^9.1.1",
-    "typescript": "^4.2.4"
+    "typescript": "^4.2.4",
+    "@babel/helper-get-function-arity": "^7.16.7"
   }
 }

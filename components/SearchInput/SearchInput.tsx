@@ -1,4 +1,4 @@
-import React, { ChangeEvent, useEffect, useRef, useState } from 'react';
+import React, { ChangeEvent } from 'react';
 import { useRequest } from 'ahooks';
 import data from '../../docs/result.json';
 import './style.css';
@@ -17,7 +17,7 @@ async function getResults(search: string): Promise<typeof data> {
 }
 
 export function SearchInput() {
-  const { data, loading, run } = useRequest(getResults, {
+  const { data, run } = useRequest(getResults, {
     debounceInterval: 700,
     manual: true,
   });
