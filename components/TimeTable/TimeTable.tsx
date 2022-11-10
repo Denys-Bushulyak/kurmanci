@@ -197,7 +197,7 @@ export function TimeTable(props: TimeTableProps) {
                 {props.verbIs === "intransitive" ? "em" : "me"}{" "}
                 {props.forms.custom["4_we"][0]}
                 <br />
-                {props.verbIs === "intransitive" ? "hûn" : "we"}{" "}
+                {props.verbIs === "intransitive" ? "hûn" : "hûn"}{" "}
                 {props.forms.custom["5_you_all"][0]}
                 <br />
                 {props.verbIs === "intransitive" ? "ew" : "wan"}{" "}
@@ -216,7 +216,7 @@ export function TimeTable(props: TimeTableProps) {
                 {props.verbIs === "intransitive" ? "em" : "me"}{" "}
                 {props.forms.custom["4_we"][1]}
                 <br />
-                {props.verbIs === "intransitive" ? "ew" : "wan"}{" "}
+                {props.verbIs === "intransitive" ? "ew" : "we"}{" "}
                 {props.forms.custom["5_you_all"][1]}
                 <br />
                 {props.verbIs === "intransitive" ? "ew" : "wan"}{" "}
